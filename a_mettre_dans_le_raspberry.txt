@@ -1,0 +1,6 @@
+pip install requests
+pip install pytesseract
+pip install pytesseract-ocr
+installer https://github.com/UB-Mannheim/tesseract/wiki
+pip install Pillow
+pip install -U discord.py
